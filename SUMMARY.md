@@ -24,6 +24,7 @@
     * [开关](Switch.md)
     * [对话框](Dialog.md) 
     * [卡片](Card.md)
+    * [气泡](Purp.md)
     * [表格](Table.md)
     * [列表](List.md)
     * [折叠面板](Collapse.md)
