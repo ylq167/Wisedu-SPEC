@@ -12,7 +12,7 @@
 
 ### 元素
     * [文字](Typergraphy.md)
-    * [按钮](Button.md)
+    * [按钮](Elements/Button.md)
     * [下拉菜单](Dropdown.md)
     * [输入框](Input.md)
     * [选择器](Navigation.md)
