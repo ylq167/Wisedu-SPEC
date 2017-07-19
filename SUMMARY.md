@@ -1,16 +1,14 @@
 # Summary
 
 * [前言](README.md)
-
-### 指引
+* [指引](Guideline.md)
     * [设计原则](Principle.md)
     * [布局](Layout.md)
     * [色彩](Color.md)
     * [字体](Font.md)
     * [文案](Copy.md)
     * [导航](Navigation.md)
-
-### 元素
+* 元素
     * [文字](Typergraphy.md)
     * [按钮](Elements/Button.md)
     * [下拉菜单](Dropdown.md)
@@ -28,8 +26,7 @@
     * [折叠面板](Collapse.md)
     * [警告提示](Collapse.md)
     * [全局提示](Message.md)
-
-### 组件
+* 组件
     * [搜索](Search.md)
     * [上传](Updown.md)
     * [可编辑表格](EditTable.md)
