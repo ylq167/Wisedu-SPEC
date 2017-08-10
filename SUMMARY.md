@@ -7,7 +7,7 @@
     * [色彩](Color.md)
     * [字体](Font.md)
     * [文案](Copy.md)
-    * [导航](Navigation.md)
+    * [导航](Guideline/Navigation.md)
 
 ---
 
