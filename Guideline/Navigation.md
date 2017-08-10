@@ -8,6 +8,8 @@
 
 ![](http://oizi4nn30.bkt.clouddn.com//20170807112835_WuYbLF_BetweenApps.jpeg)
 
+***
+
 ### 应用内导航
 
 当一个应用内有多个功能模块时，通常会使用我们叫做「全局导航栏」的组件在模块间导航，点击可在不同模块间切换。
@@ -16,13 +18,15 @@
 
 见组件-全局导航栏
 
+***
+
 ### 页面内导航
 
 #### 纸质弹窗
 
 纸质弹窗用于展示弹窗无法承载的信息。触发后在当前页面 y 轴上弹出一层新页面。
 
-![](http://oizi4nn30.bkt.clouddn.com//20170810095428_nWkIia_zhizhitanchuang.jpeg)
+<img class="preview-img no-padding" align="right" src="http://oizi4nn30.bkt.clouddn.com//20170810095428_nWkIia_zhizhitanchuang.jpeg">
 
 点击表示上一级页面的 1.蓝色条，和纸质弹窗的 2.关闭按钮均关闭当前纸质弹窗，回到上一级页面。
 
@@ -30,7 +34,7 @@
 
 ![](http://oizi4nn30.bkt.clouddn.com//20170810095428_yZzJva_2zhizhitanchuang.jpeg)
 
-#### 标签页
+#### 标签页（Tabs）
 
 在一个页面内部，有时会把内容的不同模块组织成一个 Tab，这样每次只能看到一个模块。用户点击这些 Tab 来查看不同的模块内容。
 
@@ -52,7 +56,7 @@
 
 ![](http://oizi4nn30.bkt.clouddn.com//20170810102238_i7PwM7_menu.jpeg)
 
-#### 步骤条（）
+#### 步骤条（Steps）
 
 步骤条通常用于引导用户按照规定的步骤完成一系列任务，比如填写长表单。
 
