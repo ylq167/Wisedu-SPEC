@@ -25,8 +25,11 @@ Body_Large，14px / 行距14px / Grey_Lv2
 ### 提示文字（Caption）
 
 Caption_Default，这是默认的提示文字，12px / 行距12px / Grey_Lv3
+
 Caption_Success，这是成功的提示文字，12px / 行距12px  / Success_Lv1
+
 Caption_Warning，这是警示的提示文字，12px / 行距12px / Warning_Lv1
+
 Caption_Danger，这是严重警告的提示文字，12px / 行距12px  / Danger_Lv1
 
 ![](http://oizi4nn30.bkt.clouddn.com//20170814143455_obhWRR_typography-caption.jpeg)
