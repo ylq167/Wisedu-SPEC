@@ -4,7 +4,7 @@
 * [指引](Guideline.md)
     * [设计原则](Principle.md)
     * [布局](Layout.md)
-    * [色彩](Color.md)
+    * [色彩](Guideline/Color.md)
     * [字体](Font.md)
     * [文案](Copy.md)
     * [导航](Guideline/Navigation.md)
