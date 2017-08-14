@@ -15,7 +15,7 @@
 
 #### 灰色色板
 
-- 灰度色板使用等级来命名，且只有一种类型名称：Grey
+- 灰度色板使用等级来命名，且只有一种类型名称：Grey。
 
 ![](http://oizi4nn30.bkt.clouddn.com//20170814111206_NZkhW6_TypeColor-Grey.jpeg)
 
