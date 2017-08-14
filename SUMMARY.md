@@ -5,14 +5,14 @@
     * [设计原则](Principle.md)
     * [布局](Layout.md)
     * [色彩](Guideline/Color.md)
-    * [字体](Font.md)
+    * [字体](Guideline/Font.md)
     * [文案](Copy.md)
     * [导航](Guideline/Navigation.md)
 
 ---
 
 * 元素
-    * [文字](Typergraphy.md)
+    * [文字](Elements/Typography.md)
     * [按钮](Elements/Button.md)
     * [下拉菜单](Dropdown.md)
     * [输入框](Input.md)
