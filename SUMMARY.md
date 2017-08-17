@@ -3,7 +3,7 @@
 * [前言](README.md)
 * [指引](Guideline.md)
     * [设计原则](Principle.md)
-    * [布局](Layout.md)
+    * [布局](Guideline/Layouts.md)
     * [色彩](Guideline/Color.md)
     * [字体](Guideline/Font.md)
     * [文案](Copy.md)
