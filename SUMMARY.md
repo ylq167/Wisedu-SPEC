@@ -46,7 +46,7 @@
     * [字段批量编辑](Card.md)
     * [导入](Card.md)
     * [跨页选择](Card.md)
-    * [树](Trees.md)
+    * [树](Components/Tree.md)
 
 ---
 
